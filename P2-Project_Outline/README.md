@@ -7,12 +7,40 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will be a DBT (dialectic behavioral therapy) diary app that will allow clients and therapists to track emotions/feelings/urges. It will allow clients to log in, and to create data points for emotions/feelings/urges and view graphs to assess trends.
+This project was motivated by the need of a therapist to access journal cards that get lost or destroyed when on paper, graphs data for easy recognition of trends.
+
 ### Features
-Include Features here
+User login: Users will be able to log in, either by creating accounts in the system, or by using a third-party authentication provider (e.g. Google Authentication). All access to the site will be restricted to logged-in users. 
+
+CRUD database: Users will be able to create new events in the system by entering in a mixture of required (smiley rating) and optional fields (daily view page)
+
+Delete events: Users will be able to delete events.
+Add backdated items (previous days)
+
+View month: calendar view- highlighted days with data, arrows to scroll months
+
+Weekly view- graphs data, arrows to scroll weeks
+
+Daily view- dbt input form, arrows to scroll days
+
+dashboard- quick input (smiley face buttons), nav bar
+
 ### Technologies
-Include Technologies here
+Java/ JavaScript- language
+intelliJ -editor
+Springboot- mvc framework
+Thymeleaf templates
+mySQL
+html/css 
+Angular?
+bootstrap?
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to include google login
+How to best graph/display input data
+
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/PdtMkKcS/capstone
+
