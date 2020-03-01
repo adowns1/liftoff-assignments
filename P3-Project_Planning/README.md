@@ -8,14 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-*![Wireframe1](/phases_wireframes/IMG_0849.HEIC)
-*![Wireframe2](/phases_wireframes/IMG_0850.HEIC)
-*![Wireframe3](/phases_wireframes/IMG_0851.HEIC)
-*![Wireframe4](/phases_wireframes/IMG_0852.HEIC)
-*![Wireframe5](/phases_wireframes/IMG_0853.HEIC)
-*![Wireframe6](/phases_wireframes/IMG_0854.HEIC)
-*![Wireframe7](/phases_wireframes/IMG_0855.HEIC)
+Wireframes
+*![Settings](https://photos.app.goo.gl/J9qEEofnLXA5MkNZ9)
+*![NewAcct](https://photos.app.goo.gl/DLHRhDgmzZpMrPL57)
+*![MonthlyView](https://photos.app.goo.gl/tJpQjvEjbVqUTkkt9)
+*![WeeklyView](https://photos.app.goo.gl/JSiDyQbRebftpvn2A)
+*![DailyForm](https://photos.app.goo.gl/u3dRZuGaB18HyLVn8)
+*![LogIn](https://photos.app.goo.gl/YUX7r5rTBmWg8rxh9)
+*![Dashboard](https://photos.app.goo.gl/jwrxPf1es9CBFr5N9)
 
 
 
